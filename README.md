@@ -14,10 +14,11 @@
 <p>Voici les principaux fichiers du projet :</p>
 <pre>
 Projet-Vermeer-main/
-├── index.html
-├── css/style.css
-├── script.js 
-└── img/
+|-- index.html
+|-- css/
+|   |-- style.css
+|-- script.js
+|-- img/
 </pre>
 
 <h2>Competences acquises</h2>
