@@ -1,7 +1,7 @@
 <h1 align="center">Projet "Vermeer"</h1>
 
 <h2>Description</h2>
-<p>Ce projet est mon <strong>projet de fin de 1er semestre de BTS SIO</strong>. Il met en avant une galerie interactive sur les œuvres de <strong>Johannes Vermeer</strong>, un peintre du XVIIe siècle. À travers une interface simple et intuitive, l'utilisateur peut explorer différentes toiles de Vermeer et en apprendre davantage sur leur histoire.</p>
+<p>Ce projet est mon <strong>projet de fin de 1er semestre de BTS SIO 1ere année</strong>. Il met en avant une galerie interactive sur les œuvres de <strong>Johannes Vermeer</strong>, un peintre du XVIIe siècle. À travers une interface simple et intuitive, l'utilisateur peut explorer différentes toiles de Vermeer et en apprendre davantage sur leur histoire.</p>
 
 <h2>Fonctionnalités</h2>
 <ul>
@@ -25,12 +25,6 @@ Projet-Vermeer-main/
   <li>Création de galeries interactives en HTML et CSS.</li>
   <li>Utilisation de JavaScript pour gérer les images aléatoires</li>
   <li>Structuration de projet avec organisation des fichiers.</li>
-</ul>
-
-<h2>Améliorations futures</h2>
-<ul>
-  <li>Ajout d'animations pour les transitions d'images.</li>
-  <li>Intégration d'informations détaillées sur chaque œuvre.</li>
 </ul>
 
 <hr>
