@@ -14,10 +14,10 @@
 <p>Voici les principaux fichiers du projet :</p>
 <pre>
 Projet-Vermeer-main/
-├── index.html           # Structure de la page principale
-├── css/style.css        # Feuille de style pour le design
-├── script.js            # Logique JavaScript pour l'interactivite
-└── img/                 # Images des œuvres de Vermeer
+├── index.html
+├── css/style.css
+├── script.js 
+└── img/
 </pre>
 
 <h2>Competences acquises</h2>
