@@ -30,3 +30,9 @@ Projet-Vermeer-main/
 
 <hr>
 <p>Decouvrez l'univers artistique de Johannes Vermeer grace a ce projet interactif !</p>
+
+<h2>Preview</h2>
+
+![header](https://raw.githubusercontent.com/francoisdcre/Projet-Vermeer/main/preview/header.PNG)
+![Les oeuvres](https://raw.githubusercontent.com/francoisdcre/Projet-Vermeer/main/preview/oeuvres.PNG)
+![Exemple](https://raw.githubusercontent.com/francoisdcre/Projet-Vermeer/main/preview/exemple.PNG)
