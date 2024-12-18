@@ -1,6 +1,6 @@
 <h1 align="center">Projet "Vermeer"</h1>
 
-<a href="https://francoisdcre.github.io/Projet-Vermeer/"> Visiter le site </a>
+<a href="https://francoisdcre.github.io/Projet-Vermeer/" target="_blank"> Visiter le site </a>
 
 <h2>Description</h2>
 <p>Ce projet est mon <strong>projet de fin de 1er semestre de BTS SIO 1ere annee</strong>. Il met en avant une galerie interactive sur les œuvres de <strong>Johannes Vermeer</strong>, un peintre du XVIIe siecle. A travers une interface simple et intuitive, l'utilisateur peut explorer differentes toiles de Vermeer et en apprendre davantage sur leur histoire.</p>
